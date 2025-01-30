@@ -1,4 +1,4 @@
-Locales['en'] = {
+return {
   ['ooc_prefix'] = 'OOC | %s',
   ['twt_help'] = 'send a tweet',
   ['twt_prefix'] = '^0[^4Twitter^0] (^5@%s^0)',

@@ -1,4 +1,4 @@
-Locales['sr'] = {
+return {
   ['ooc_prefix'] = 'OOC | %s',
   ['twt_help'] = 'pošalji tweet',
   ['twt_prefix'] = '^0[^4Twitter^0] (^5@%s^0)',

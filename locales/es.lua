@@ -1,4 +1,4 @@
-Locales['es'] = {
+return {
   ['ooc_prefix'] = 'OOC | %s',
   ['twt_help'] = 'Mandar tweet',
   ['twtanon_help'] = 'Mandar tweet anonimo',
